@@ -10,10 +10,27 @@ This application enables direct audio extraction from YouTube videos. Users just
 - **ffmpeg** : you also need to install `ffmpeg` in your PC
 
 
-
 ```python
-print("Hello World")
+# This is a long code example
+def audio_visualizer():
+    import pyaudio
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import tkinter as tk
+    from tkinter import ttk
+    
+    # Initialize audio stream
+    CHUNK = 1024
+    FORMAT = pyaudio.paInt16
+    CHANNELS = 1
+    RATE = 44100
+    
+    # Create GUI window
+    root = tk.Tk()
+    root.title("Real-Time Audio Visualizer")
+    # ... more code continues
 ```
- 
+
+
 
 
