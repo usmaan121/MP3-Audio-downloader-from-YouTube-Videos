@@ -10,7 +10,7 @@ This application enables direct audio extraction from YouTube videos. Users just
 - **ffmpeg** : you also need to install `ffmpeg` in your PC
 
 
-```python
+```
  This is a long code example
 
 ```
