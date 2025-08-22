@@ -4,6 +4,8 @@ This application enables direct audio extraction from YouTube videos. Users just
 ## Requirements
 
 - **Python 3.8+**
-- **Libraries:** `pyaudio`, `numpy`, `matplotlib`, `tkinter`, `os`, `struct`, `time`
+- **Libraries:** `yt_dlp` , `os`
+- **ffmpeg** : you also need to install `ffmpeg` in your PC
+ 
 
 
