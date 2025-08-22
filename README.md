@@ -4,5 +4,5 @@ This application enables direct audio extraction from YouTube videos. Users just
 ## Requirements
 
 - Python
-- Python Libraries: 
+- Python Libraries: 'yt_dlp' , 'os'
 
