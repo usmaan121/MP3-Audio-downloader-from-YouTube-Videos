@@ -6,6 +6,10 @@ This application enables direct audio extraction from YouTube videos. Users just
 - **Python 3.8+**
 - **Libraries:** `yt_dlp` , `os`
 - **ffmpeg** : you also need to install `ffmpeg` in your PC
+
+
+ `How does this program works?
  
+ `
 
 
